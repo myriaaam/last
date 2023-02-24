@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myriaaam/last.git/static/css/main.073c9b0a.css",
+    "main.js": "/myriaaam/last.git/static/js/main.2c3bc8bd.js",
+    "static/js/787.65b698d1.chunk.js": "/myriaaam/last.git/static/js/787.65b698d1.chunk.js",
+    "index.html": "/myriaaam/last.git/index.html",
+    "main.073c9b0a.css.map": "/myriaaam/last.git/static/css/main.073c9b0a.css.map",
+    "main.2c3bc8bd.js.map": "/myriaaam/last.git/static/js/main.2c3bc8bd.js.map",
+    "787.65b698d1.chunk.js.map": "/myriaaam/last.git/static/js/787.65b698d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2c3bc8bd.js"
+  ]
+}
